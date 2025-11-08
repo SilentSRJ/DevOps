@@ -13,3 +13,9 @@ jobs:
       - name: barani
         run:
          echo "Hello World"
+      - name: barani1
+        run:
+         echo "Hello World"
+      - name: barani2
+        run:
+         echo "Hello World"
